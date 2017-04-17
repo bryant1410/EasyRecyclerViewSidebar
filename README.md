@@ -1,4 +1,4 @@
-#EasyRecyclerViewSidebar
+# EasyRecyclerViewSidebar
 
 <br>
 
@@ -12,7 +12,7 @@
 <br>
 <br>
 
-##Introduction
+## Introduction
 
 EasyRecyclerViewSidebar is a more convenient sidebar index column.  
 
@@ -47,7 +47,7 @@ dependencies {
 <br>
 <br>
 
-##Listener
+## Listener
 
 You must implement the **EasyRecyclerViewSidebar.OnTouchSectionListener** .
 
@@ -209,7 +209,7 @@ private void initData() {
 <br>
 <br>
 
-##Screenshots
+## Screenshots
 
 <img src="https://github.com/CaMnter/EasyRecyclerViewSidebar/raw/master/screenshots/EasyRecyclerViewSidebar.gif" width="320x">   
 
